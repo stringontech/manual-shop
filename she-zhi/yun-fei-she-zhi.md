@@ -1,7 +1,5 @@
 # 运费设置
 
-
-
 前往设置-运费设置界面，即可设置运费功能。
 
 ![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200911114350.png)
