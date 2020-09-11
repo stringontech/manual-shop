@@ -1,5 +1,9 @@
 # 简介
 
+该系统为区块链商城的商家管理后台，在该系统内商家可以用来处理各种商城业务，具体见文档详情。
+
+
+
 ## 系统概况：
 
 ![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D%E7%BB%98%E5%9B%BE2.jpg)
