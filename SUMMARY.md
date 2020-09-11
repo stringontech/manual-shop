@@ -7,7 +7,8 @@
 * [订单管理](ding-dan-guan-li.md)
 * [营销活动](ying-xiao-huo-dong.md)
 * [财务管理](cai-wu-guan-li.md)
-* [店铺设置](she-zhi.md)
+* [店铺设置](she-zhi/README.md)
+  * [权限设置](she-zhi/quan-xian-she-zhi.md)
 * [常见问题](faq.md)
 
 ## 链接
