@@ -18,7 +18,7 @@
 
 ## 链接
 
-* [数字工厂手册](https://help.stringon.com/matrix/)
-* [认证机构手册](https://help.stringon.com/certifier/)
-* [物影手册](https://help.stringon.com/wing/)
+* [数字工厂手册](https://help-matrix.stringon.com)
+* [认证机构手册](https://help-certifier.stringon.com)
+* [物影手册](https://help-wing.stringon.com)
 
